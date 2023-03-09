@@ -6,9 +6,9 @@
 
 
 <div align="center">
-  <a href="https://github.com/yatocham">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yatocham&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yatocham&layout=compact&langs_count=7&theme=cobalt"/>
+  <a href="https://github.com/EderJrDev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EderJrDev&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EderJrDev&layout=compact&langs_count=7&theme=cobalt"/>
 </div>
 
 <div style="display: inline_block"><br>
@@ -27,10 +27,10 @@
 
 <div> 
   <a href="https://www.instagram.com/ederjuninho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.com/yatocham" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
+ <a href="https://discord.com/EderJrDev" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
   <a href = "ederjuninho2003@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/eder-junior-72b350168/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   
-   ![Snake animation](https://github.com/yatocham/yatocham/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/EderJrDev/yatocham/blob/output/github-contribution-grid-snake.svg)
   
  </div>
