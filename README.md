@@ -1,9 +1,9 @@
 ### Olá! Eu sou o Eder Jr 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Desenvolvedor+Front-end!;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Desenvolvedor Front-end
 - 🌱 Cursando Engenharia de Software
 - 📫 Contate-me no email: ederjuninho2003@gmail.com
-
 
 <div align="center">
   <a href="https://github.com/EderJrDev">
@@ -32,4 +32,5 @@
 <div> 
   <a href="https://www.instagram.com/ederjuninho_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/ederjuniordev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
+  <a href="https://ederjrdev.bohr.io/" target="_blank"><img src="https://img.shields.io/badge/Site-%75EEB2?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZlcnNpb249IjEiIHdpZHRoPSI2MDAiIGhlaWdodD0iNjAwIj48cGF0aCBkPSJNMTI5IDExMWMtNTUgNC05MyA2Ni05MyA3OEwwIDM5OGMtMiA3MCAzNiA5MiA2OSA5MWgxYzc5IDAgODctNTcgMTMwLTEyOGgyMDFjNDMgNzEgNTAgMTI4IDEyOSAxMjhoMWMzMyAxIDcxLTIxIDY5LTkxbC0zNi0yMDljMC0xMi00MC03OC05OC03OGgtMTBjLTYzIDAtOTIgMzUtOTIgNDJIMjM2YzAtNy0yOS00Mi05Mi00MmgtMTV6IiBmaWxsPSIjZmZmIi8+PC9zdmc+&logoColor=white"></a> 
  </div>
