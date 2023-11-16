@@ -1,9 +1,9 @@
-### Olá! Eu sou o Eder Jr 👋
+### Hi! I'm Eder Jr 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Desenvolvedor+Front-end!;+:%29)](https://git.io/typing-svg)
 
-- 🔭 Desenvolvedor Front-end
-- 🌱 Cursando Engenharia de Software
-- 📫 Contate-me no email: ederjuninho2003@gmail.com
+- 🔭 Frontend Developer
+- 🌱 Software Engineering Course
+- 📫 Contact me at email: ederjuninho2003@gmail.com
 
 <div align="center">
   <a href="https://github.com/EderJrDev">
