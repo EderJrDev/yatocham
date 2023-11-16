@@ -1,5 +1,5 @@
 ### Hi! I'm Eder Jr 👋
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Desenvolvedor+Front-end!;+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=007ACC&size=35&v&width=1000&lines=Frontend+Developer!;+:%29)](https://git.io/typing-svg)
 
 - 🔭 Frontend Developer
 - 🌱 Software Engineering Course
